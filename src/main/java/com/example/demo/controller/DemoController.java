@@ -26,7 +26,6 @@ public class DemoController {
                 .get("wind")
                 .toString();
 
-
         return new ObjectMapper().readValue(inputString, Wind.class);
     }
 
