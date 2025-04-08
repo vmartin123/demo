@@ -1,1 +1,1 @@
-read example f2
+read example
